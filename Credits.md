@@ -1,7 +1,5 @@
-# Credits
+# Music Credits
 
-Afterlife (videogame / VR)  
-A Paper World (videogame)  
 Unannounced Project, TBA (videogame)  
 Zero-G (videogame)  
 James Lee (YouTube animation, releasing mid 2018)  
@@ -11,11 +9,11 @@ Zombie Scooter Club (singles)
 SOMOS (videogame)  
 Spinny The Neuron (videogame)  
 Kitty Kount (videogame)  
-​Rainbow the Rocket (videogame)  
+Rainbow the Rocket (videogame)  
 If the Boot Fits (short film)  
-​Synaesthesia: A World of Colour (documentary)  
+Synesthesia: A World of Colour (documentary)  
 Billy The Banana (short film)  
-​Critters (videogame)  
+Critters (videogame)  
 Bound by Hound (single)  
 Dead Set Radio (EP)  
 Emily Jenik (album)  
@@ -29,3 +27,10 @@ Run Rabbit Run (album)
 Anthony Callea  (Backbone album)  
 Fractures (Live in studio)   
 Hugh Sheridan / California Crooners Club (singles)  
+
+# Game Design Credits
+
+We Happy Few VR (video game / VR)
+Afterlife (videogame / VR)  
+A Paper World (videogame)  
+
