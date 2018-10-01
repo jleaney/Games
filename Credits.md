@@ -1,12 +1,12 @@
 # Music Credits
 
-Unannounced Project, TBA (videogame)  
+Nom Nom Apocalypse (videogame)
+SOMOS (videogame)
 Zero-G (videogame)  
-James Lee (YouTube animation, releasing mid 2018)  
+James Lee (YouTube animation)  
 Inventions (EP)  
 Inventions (Exist, Explore EP)  
 Zombie Scooter Club (singles)  
-SOMOS (videogame)  
 Spinny The Neuron (videogame)  
 Kitty Kount (videogame)  
 Rainbow the Rocket (videogame)  
