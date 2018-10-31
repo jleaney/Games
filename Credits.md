@@ -30,7 +30,7 @@ Hugh Sheridan / California Crooners Club (singles)
 
 # Game Design Credits
 
-We Happy Few VR (video game / VR)
-Afterlife (videogame / VR)  
+We Happy Few VR (video game / VR
 A Paper World (videogame)  
+Afterlife (videogame / VR)  
 
